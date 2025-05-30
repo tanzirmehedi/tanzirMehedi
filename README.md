@@ -53,7 +53,7 @@ With a strong record of academic excellence and peer-reviewed publications, I am
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tanzirMehedi&layout=compact&theme=tokyonight)]()  
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=tanzirMehedi&theme=tokyonight)]()  
 [![Trophies](https://github-profile-trophy.vercel.app/?username=tanzirmehedi&theme=tokyonight&no-frame=true&column=4)]()  
-[![Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=tanzirmehedi&theme=tokyonight)]()
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=tanzirMehedi&theme=tokyonight)]()
 
 ---
 
