@@ -52,8 +52,8 @@ With a strong record of academic excellence and peer-reviewed publications, I am
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tanzirMehedi&show_icons=true&theme=tokyonight&count_private=true)]()  
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tanzirMehedi&layout=compact&theme=tokyonight)]()  
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=tanzirMehedi&theme=tokyonight)]()  
-[![Trophies](https://github-profile-trophy.vercel.app/?username=tanzirMehedi&theme=tokyonight&no-frame=true&column=4)]()  
-[![Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=tanzirMehedi&theme=tokyonight)]()
+[![Trophies](https://github-profile-trophy.vercel.app/?username=tanzirmehedi&theme=tokyonight&no-frame=true&column=4)]()  
+[![Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=tanzirmehedi&theme=tokyonight)]()
 
 ---
 
@@ -67,7 +67,7 @@ With a strong record of academic excellence and peer-reviewed publications, I am
 
 ## Contact
 
-📧 Email: tanzirmehedi [at] gmail [dot] com  
+📧 Email: tanzir [dot] mehedi [at] qut [dot] hdr [dot] edu [dot] au 
 🔗 LinkedIn: [linkedin.com/in/tanzirmehedi](https://www.linkedin.com/in/tanzirmehedi)  
 🌐 Portfolio: [tanzirmehedi.github.io](https://tanzirmehedi.github.io)
 
