@@ -67,7 +67,7 @@ With a strong record of academic excellence and peer-reviewed publications, I am
 
 ## Contact
 
-📧 Email: tanzir [dot] mehedi [at] qut [dot] hdr [dot] edu [dot] au 
+📧 Email: tanzir [dot] mehedi [at] qut [dot] hdr [dot] edu [dot] au
 🔗 LinkedIn: [linkedin.com/in/tanzirmehedi](https://www.linkedin.com/in/tanzirmehedi)  
 🌐 Portfolio: [tanzirmehedi.github.io](https://tanzirmehedi.github.io)
 
