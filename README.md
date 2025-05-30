@@ -1,10 +1,62 @@
-### Sk Tanzir Mehedi is currently working toward the Ph.D. degree in Computer Science at Queensland University of Technology (QUT), Brisbane, Australia. He has an excellent academic background and research experience. Also, he has teaching experience at the university and industrial experience in Japan. He has several publications in the top-ranked international journals and international conferences.
+# 👨‍💻 Sk Tanzir Mehedi
 
-### He was a Lecturer in the Department of Computer Science and Engineering (CSE) at the University of Asia Pacific (UAP), Bangladesh. He also served Fujitsu Research Institute (FRI), Japan, as a Data Analyst Engineer (Internship); University of Information Technology and Sciences (UITS), Bangladesh, as a Lecturer; and the ICT division, Bangladesh, as a Research Fellow.
+**Ph.D. Researcher | Machine Learning | Cybersecurity | Federated Learning | Blockchain**
 
-### Tanzir has achieved academic genius award (1st position) both in B.Sc. (Engg.) and M.Sc. (Engg.) degrees from Mawlana Bhashani Science and Technology University, Bangladesh, for his academic excellence.
+🎓 Ph.D. Candidate in Computer Science  
+📍 Queensland University of Technology (QUT), Brisbane, Australia  
+📬 Contact: tanzirmehedi [at] gmail [dot] com  
 
-### His research interests include machine learning, federated learning, blockchain, the IoT, and cybersecurity. He is affiliated with the IEEE.
+---
 
-[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=tanzirMehedi&theme=tokyonight)]()
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=tanzirMehedi&langs_count=5&theme=tokyonight)]()
+## 🧑‍🏫 About Me
+
+I’m currently pursuing my Ph.D. in Computer Science at QUT, Australia. My background blends **academic excellence, research innovation**, and **industrial experience** in Japan and Bangladesh. I’ve published in top-tier journals and international conferences, and previously served as:
+
+- Lecturer, Department of CSE, University of Asia Pacific (UAP), Bangladesh  
+- Research Fellow, ICT Division, Government of Bangladesh  
+- Data Analyst Engineer (Intern), Fujitsu Research Institute (FRI), Japan  
+- Lecturer, UITS, Bangladesh  
+
+🏅 I received the **Academic Genius Award (1st Position)** in both B.Sc. and M.Sc. degrees from Mawlana Bhashani Science and Technology University.
+
+---
+
+## 🔬 Research Interests
+
+- 🧠 Machine Learning & Federated Learning  
+- 🔐 Cybersecurity  
+- ⛓️ Blockchain  
+- 🌐 Internet of Things (IoT)  
+- 🧩 Software Supply Chain Security  
+
+---
+
+## 🏆 Achievements & Memberships
+
+- 🎖️ Academic Genius Award Winner (B.Sc. & M.Sc.)  
+- 👥 Member of IEEE  
+- 📜 Multiple peer-reviewed publications in AI and cybersecurity
+
+---
+
+## 📊 GitHub Stats
+
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=tanzirMehedi&show_icons=true&theme=tokyonight)]()  
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tanzirMehedi&layout=compact&theme=tokyonight&langs_count=10)]()  
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=tanzirMehedi&theme=tokyonight)]()  
+[![Trophies](https://github-profile-trophy.vercel.app/?username=tanzirMehedi&theme=tokyonight&no-frame=true&margin-w=5)]()  
+[![Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=tanzirMehedi&theme=tokyonight)]()  
+
+---
+
+## 🌐 Let's Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tanzirmehedi)  
+[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=tfKIiZoAAAAJ&hl=en)  
+[![ResearchGate](https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white)](https://www.researchgate.net/profile/Tanzir_Mehedi)  
+[![Website](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white)](https://tanzirmehedi.github.io)
+
+---
+
+_⭐️ “Striving to contribute to trustworthy and intelligent software systems.”_
+
