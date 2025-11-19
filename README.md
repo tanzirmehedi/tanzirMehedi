@@ -24,7 +24,8 @@ With a strong record of academic excellence and peer-reviewed publications, I am
 
 ## Academic & Professional Experience
 
-- **Ph.D. Researcher**, Queensland University of Technology (QUT), Australia  
+- **Ph.D. Researcher**, Queensland University of Technology (QUT), Australia
+- **Researcher (Privacy Summer School)**, The University of New South Wales (UNSW), Australia  
 - **Lecturer**, Department of CSE, University of Asia Pacific (UAP), Bangladesh  
 - **Lecturer**, University of Information Technology and Sciences (UITS), Bangladesh  
 - **Research Fellow**, ICT Division, Government of Bangladesh  
