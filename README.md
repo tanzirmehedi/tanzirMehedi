@@ -5,6 +5,8 @@
 
 ---
 
+[![Google Scholar](https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=tfKIiZoAAAAJ&hl=en)  [![ResearchGate](https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white)](https://www.researchgate.net/profile/Sk-Mehedi-2)  [![ORCID](https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0000-0003-4435-7856)  [![Elsevier](https://img.shields.io/badge/Elsevier-FF6C00?style=for-the-badge&logo=elsevier&logoColor=white)](https://portal.research.qut.edu.au/en/persons/tanzir-mehedi/)  [![Scopus](https://img.shields.io/badge/Scopus-E9711C?style=for-the-badge&logo=elsevier&logoColor=white)](https://www.scopus.com/authid/detail.uri?authorId=57212198805)  [![IEEE Xplore](https://img.shields.io/badge/IEEE_Xplore-00629B?style=for-the-badge&logo=ieee&logoColor=white)](https://ieeexplore.ieee.org/author/37088643307)  [![OpenReview](https://img.shields.io/badge/OpenReview-8C1B13?style=for-the-badge&logo=openreview&logoColor=white)](https://openreview.net/profile?id=~Sk_Tanzir_Mehedi1)  [![SciProfiles](https://img.shields.io/badge/SciProfiles-1E90FF?style=for-the-badge&logo=mdpi&logoColor=white)](https://sciprofiles.com/profile/tanzir-mehedi)  [![QUT Trusted Networks](https://img.shields.io/badge/QUT_Trusted_Networks-51247A?style=for-the-badge&logo=qut&logoColor=white)](https://research.qut.edu.au/trustednetworks/people/sk-tanzir-mehedi/)  [![UAP CSE Faculty](https://img.shields.io/badge/UAP_CSE_Faculty-003366?style=for-the-badge&logo=academia&logoColor=white)](https://cse.uap-bd.edu/people/faculty/sk-tanzir-mehedi/)
+
 ## About
 
 I am a doctoral researcher in Computer Science at the Queensland University of Technology (QUT), Australia. My background spans academia and industry, including positions as a Lecturer and Research Fellow in Bangladesh and a Data Analyst Engineer at Fujitsu Research Institute (FRI), Japan.
@@ -55,21 +57,6 @@ With a strong record of academic excellence and peer-reviewed publications, I am
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=tanzirMehedi&theme=tokyonight)]()  
 [![Trophies](https://github-profile-trophy.vercel.app/?username=tanzirmehedi&theme=tokyonight&no-frame=true&column=4)]()  
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=tanzirMehedi&theme=tokyonight)]()
-
----
-
-## Academic Profiles
-
-[![Google Scholar](https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=tfKIiZoAAAAJ&hl=en)  
-[![ResearchGate](https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white)](https://www.researchgate.net/profile/Sk-Mehedi-2)  
-[![ORCID](https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0000-0003-4435-7856)  
-[![Elsevier](https://img.shields.io/badge/Elsevier-FF6C00?style=for-the-badge&logo=elsevier&logoColor=white)](https://portal.research.qut.edu.au/en/persons/tanzir-mehedi/)  
-[![Scopus](https://img.shields.io/badge/Scopus-E9711C?style=for-the-badge&logo=elsevier&logoColor=white)](https://www.scopus.com/authid/detail.uri?authorId=57212198805)  
-[![IEEE Xplore](https://img.shields.io/badge/IEEE_Xplore-00629B?style=for-the-badge&logo=ieee&logoColor=white)](https://ieeexplore.ieee.org/author/37088643307)  
-[![OpenReview](https://img.shields.io/badge/OpenReview-8C1B13?style=for-the-badge&logo=openreview&logoColor=white)](https://openreview.net/profile?id=~Sk_Tanzir_Mehedi1)  
-[![SciProfiles](https://img.shields.io/badge/SciProfiles-1E90FF?style=for-the-badge&logo=mdpi&logoColor=white)](https://sciprofiles.com/profile/tanzir-mehedi)  
-[![QUT Trusted Networks](https://img.shields.io/badge/QUT_Trusted_Networks-51247A?style=for-the-badge&logo=qut&logoColor=white)](https://research.qut.edu.au/trustednetworks/people/sk-tanzir-mehedi/)  
-[![UAP CSE Faculty](https://img.shields.io/badge/UAP_CSE_Faculty-003366?style=for-the-badge&logo=academia&logoColor=white)](https://cse.uap-bd.edu/people/faculty/sk-tanzir-mehedi/)
 
 ---
 
