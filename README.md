@@ -13,9 +13,13 @@
 
 ## About
 
-I am a doctoral researcher in Computer Science at the Queensland University of Technology (QUT), Australia. My background spans academia and industry, including positions as a Lecturer and Research Fellow in Bangladesh and a Data Analyst Engineer at Fujitsu Research Institute (FRI), Japan.
+Sk Tanzir Mehedi is currently pursuing a Ph.D. in Computer Science at the Queensland University of Technology (QUT), Brisbane, Australia. He has an excellent academic track record, strong research experience, and additional teaching and industry experience in Japan. He has published several research papers in top-ranked international journals and conferences, including IEEE Transactions and NeurIPS.
 
-With a strong record of academic excellence and peer-reviewed publications, I am committed to advancing research in secure and intelligent systems. I have received multiple academic awards, including ranking **first** in both my B.Sc. and M.Sc. degrees.
+He previously served as a Researcher at the Australian Summer School on Privacy, University of New South Wales (UNSW), Sydney, Australia. He has also worked as a Lecturer in the Department of Computer Science and Engineering (CSE) at the University of Asia Pacific (UAP), Bangladesh, and as a Lecturer at the University of Information Technology and Sciences (UITS), Bangladesh. His industry and research experience includes working as a Data Analyst Engineer (Intern) at the Fujitsu Research Institute (FRI), Japan, and serving as a Research Fellow at the ICT Division, Bangladesh.
+
+Tanzir has received the SAGE HDR Student Publication Prize – Awards 2025 from QUT in recognition of his research excellence. He also achieved the Academic Genius Award (1st position) in both his B.Sc. (Engg.) and M.Sc. (Engg.) degrees at Mawlana Bhashani Science and Technology University, Bangladesh, for outstanding academic performance.
+
+His research interests include machine learning, cybersecurity, blockchain, and IoT. He is an active member of the IEEE.
 
 ---
 
