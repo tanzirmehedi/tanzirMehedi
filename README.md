@@ -63,6 +63,7 @@ With a strong record of academic excellence and peer-reviewed publications, I am
 [![Google Scholar](https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=tfKIiZoAAAAJ&hl=en)  
 [![ResearchGate](https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white)](https://www.researchgate.net/profile/Sk-Mehedi-2)  
 [![ORCID](https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0000-0003-4435-7856)
+[![Elsevier](https://img.shields.io/badge/Elsevier-FF6C00?style=for-the-badge&logo=elsevier&logoColor=white)](https://portal.research.qut.edu.au/en/persons/tanzir-mehedi/)
 
 ---
 
