@@ -52,15 +52,15 @@ With a strong record of academic excellence and peer-reviewed publications, I am
 
 ## GitHub Statistics
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tanzirmehedi&show_icons=true&theme=tokyonight&count_private=true)](https://github.com/USERNAME)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tanzirmehedi&show_icons=true&theme=tokyonight&count_private=true)](https://github.com/tanzirmehedi)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tanzirmehedi&layout=compact&theme=tokyonight)](https://github.com/USERNAME)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tanzirmehedi&layout=compact&theme=tokyonight)](https://github.com/tanzirmehedi)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=tanzirmehedi&theme=tokyonight)](https://github.com/USERNAME)
+[![GitHub Streak](https://streak-stats.demolab.com?user=tanzirmehedi&theme=tokyonight)](https://github.com/tanzirmehedi)
 
-[![Trophies](https://github-profile-trophy.vercel.app/?username=tanzirmehedi&theme=tokyonight&no-frame=true&column=4)](https://github.com/USERNAME)
+[![Trophies](https://github-profile-trophy.vercel.app/?username=tanzirmehedi&theme=tokyonight&no-frame=true&column=4)](https://github.com/tanzirmehedi)
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=tanzirmehedi&theme=tokyonight)](https://github.com/USERNAME)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=tanzirmehedi&theme=tokyonight)](https://github.com/tanzirmehedi)
 
 ---
 
