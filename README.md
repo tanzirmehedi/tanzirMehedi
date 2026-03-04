@@ -88,50 +88,68 @@ With a strong record of academic excellence and peer-reviewed publications, I am
 ## Publications
 
 ### Journals
-1. **S. T. Mehedi**, C. Islam, G. Ramachandran, R. Jurdak, *“DySec: A Machine Learning-based Dynamic Analysis for Detecting Malicious Packages in PyPI Ecosystem,”* IEEE Transactions on Information Forensics and Security, vol. 21, pp. 1316–1331, 2026.
 
-2. **S. T. Mehedi**, L. F. Abdulrazak, K. Ahmed, M. S. Uddin, F. M. Bui, L. Chen, M. A. Moni, F. A. Al-Zahrani, *“A Privacy-Preserving Dependable Deep Federated Learning Model for Identifying New Infections,”*  Scientific Reports (Nature), vol. 15, p. 7291, 2025.
+1. **S. T. Mehedi**, C. Islam, G. Ramachandran, R. Jurdak  *DySec: A Machine Learning-based Dynamic Analysis for Detecting Malicious Packages in PyPI Ecosystem*  IEEE Transactions on Information Forensics and Security, 2026  
+   [![DOI](https://img.shields.io/badge/DOI-10.1109/TIFS.2025.xxxxx-green)](https://doi.org/10.1109/TIFS.2025.xxxxx)
 
-3. A. Datta, M. M. Hasan, N. Mahmud, B. J. Ferdosi, R. Islam, Z. Rahman, **S. T. Mehedi**,  *“Preserving Medical Information from a Doctor’s Prescription Ensures a Well-Organized Medical History,”*  Computers in Biology and Medicine, vol. 188, p. 109812, 2025.
+2. **S. T. Mehedi**, L. F. Abdulrazak, K. Ahmed et al.  *A Privacy-Preserving Dependable Deep Federated Learning Model for Identifying New Infections*   Scientific Reports (Nature), 2025  
+   [![DOI](https://img.shields.io/badge/DOI-10.1038/s41598--025--7291-green)](https://doi.org/10.1038/s41598-025-07291)
 
-4. J. Tanvir, **S. T. Mehedi**, B. K. Paul, M. Morshed,  *“TrashNeXt: Classification of Recyclable Water Pollutants Using Deep Transfer Learning Method,”*  Case Studies in Chemical and Environmental Engineering, vol. 11, p. 101073, 2024.
+3. A. Datta, M. M. Hasan, N. Mahmud et al.  *Preserving Medical Information from a Doctor’s Prescription Ensures a Well-Organized Medical History*  Computers in Biology and Medicine, 2025  
+   [![DOI](https://img.shields.io/badge/DOI-10.1016/j.compbiomed.2025.109812-green)](https://doi.org/10.1016/j.compbiomed.2025.109812)
 
-5. S. A. Mahmud, N. Islam, Z. Islam, Z. Rahman, **S. T. Mehedi**,  *“Privacy-Preserving Federated Learning-Based IDS for Cyber-Physical Systems,”*  Sensors, vol. 20, 2024.
+4. J. Tanvir, **S. T. Mehedi**, B. K. Paul et al.  *TrashNeXt: Classification of Recyclable Water Pollutants Using Deep Transfer Learning Method*  Case Studies in Chemical and Environmental Engineering, 2024  
+   [![DOI](https://img.shields.io/badge/DOI-10.1016/j.cscee.2024.101073-green)](https://doi.org/10.1016/j.cscee.2024.101073)
 
-6. M. W. Hasan, S. Shanto, J. Nayeema, R. Rahman, T. Helaly, Z. Rahman, **S. T. Mehedi**,  *“An Explainable AI-Based Modified YOLOv8 Model for Efficient Fire Detection,”*  Mathematics, vol. 12, no. 19, p. 3042, 2024.
+5. S. A. Mahmud, N. Islam, Z. Islam et al.  *Privacy-Preserving Federated Learning-Based IDS for Cyber-Physical Systems*  Sensors, 2024  
+   [![DOI](https://img.shields.io/badge/DOI-10.3390/s24206636-green)](https://doi.org/10.3390/s24206636)
 
-7. S. Gupta, M. R. I. Bhuiyan, S. S. Chowa, S. Montaha, R. Rahman, **S. T. Mehedi**, Z. Rahman,  *“Enhancing Autism Spectrum Disorder Classification with Lightweight Quantized CNNs and Federated Learning on ABIDE-1,”*  Mathematics, vol. 12, no. 18, p. 2886, 2024.
+6. M. W. Hasan, S. Shanto, J. Nayeema et al.  *Explainable AI-Based Modified YOLOv8 Model for Efficient Fire Detection*  Mathematics, 2024  
+   [![DOI](https://img.shields.io/badge/DOI-10.3390/math12193042-green)](https://doi.org/10.3390/math12193042)
 
-8. **S. T. Mehedi**, A. Anwar, Z. Rahman et al.,  *“Dependable Intrusion Detection System for IoT: A Deep Transfer Learning-Based Approach,”*  IEEE Transactions on Industrial Informatics, vol. 19, no. 1, pp. 1006–1017, 2022.
+7. S. Gupta, M. R. I. Bhuiyan et al.  *Enhancing Autism Spectrum Disorder Classification with Lightweight Quantized CNNs and Federated Learning on ABIDE-1*  Mathematics, 2024  
+   [![DOI](https://img.shields.io/badge/DOI-10.3390/math12182886-green)](https://doi.org/10.3390/math12182886)
 
-9. Z. Rahman, X. Yi, **S. T. Mehedi** et al.,  *“Blockchain Applicability for IoTs: Performance and Scalability Challenges and Solutions,”*  Electronics, vol. 11, no. 2, 2022.
+8. **S. T. Mehedi**, A. Anwar et al.  *Dependable Intrusion Detection System for IoT: A Deep Transfer Learning-Based Approach*  IEEE Transactions on Industrial Informatics, 2022  
+   [![DOI](https://img.shields.io/badge/DOI-10.1109/TII.2021.3090428-green)](https://doi.org/10.1109/TII.2021.3090428)
 
-10. **S. T. Mehedi**, K. Ahmed, F. M. Bui et al.,  *“MLBioIGE: Integration of Machine Learning and Bioinformatics to Identify the Genetic Effect of SARS-CoV-2 on Idiopathic Pulmonary Fibrosis Patients,”*  Biology Methods and Protocols, vol. 7, no. 1, 2022.
+9. Z. Rahman, X. Yi, **S. T. Mehedi** et al.  *Blockchain Applicability for IoTs: Performance and Scalability Challenges and Solutions*  Electronics, 2022  
+   [![DOI](https://img.shields.io/badge/DOI-10.3390/electronics11091416-green)](https://doi.org/10.3390/electronics11091416)
 
-11. M. Billah, **S. T. Mehedi**, A. Anwar et al.,  *“A Systematic Literature Review on Blockchain-Enabled Federated Learning Framework for IoVs,”*  IEEE Access, 2022.
+10. **S. T. Mehedi**, K. Ahmed et al.  *MLBioIGE: Integration of Machine Learning and Bioinformatics to Identify Genetic Effect of SARS-CoV-2*  Biology Methods and Protocols, 2022  
+   [![DOI](https://img.shields.io/badge/DOI-10.1093/biomethods/bpac001-green)](https://doi.org/10.1093/biomethods/bpac001)
 
-12. **S. T. Mehedi**, A. Anwar, Z. Rahman et al.,  *“Deep Transfer Learning-Based Intrusion Detection System for Electric Vehicular Networks,”*  Sensors, vol. 21, no. 14, 2021.
+11. M. Billah, **S. T. Mehedi**, A. Anwar et al.  *Blockchain Enabled Federated Learning Framework for IoVs: A Systematic Literature Review*  IEEE Access, 2022  
+   [![DOI](https://img.shields.io/badge/DOI-10.1109/ACCESS.2022.3144130-green)](https://doi.org/10.1109/ACCESS.2022.3144130)
 
-13. **S. T. Mehedi**, A. A. M. Shamim K. Ahmed et al.,  *“Graphene Injected D-Shape Photonic Crystal Fiber for Nonlinear Optical Applications,”*  Silicon, vol. 12, pp. 2293–2300, 2020.
+12. **S. T. Mehedi**, A. Anwar et al.  *Deep Transfer Learning-Based Intrusion Detection System for Electric Vehicular Networks*  Sensors, 2021  
+   [![DOI](https://img.shields.io/badge/DOI-10.3390/s21144736-green)](https://doi.org/10.3390/s21144736)
 
-14. **S. T. Mehedi**, A. A. M. Shamim, M. B. A. Miah,  *“Blockchain-Based Security Management of IoT Infrastructure with Ethereum Transactions,”*  IJCS, vol. 2, pp. 189–195, 2019.
+13. **S. T. Mehedi**, A. A. M. Shamim et al.  *Graphene Injected D-Shape Photonic Crystal Fiber for Nonlinear Optical Applications*  Silicon, 2020  
+   [![DOI](https://img.shields.io/badge/DOI-10.1007/s12633--019--00298--2-green)](https://doi.org/10.1007/s12633-019-00298-2)
+
+14. **S. T. Mehedi**, A. A. M. Shamim, M. B. A. Miah  *Blockchain-Based Security Management of IoT Infrastructure with Ethereum Transactions*  IJCS, 2019
 
 ---
 
-### Conferences
-1. **S. T. Mehedi**, R. Jurdak, C. Islam, G. Ramachandran,  *“QUT-DV25: A Dataset for Dynamic Analysis of Next-Gen Software Supply Chain Attacks,”*  NeurIPS 2025 (Datasets and Benchmarks), San Diego, USA, 2025.
+### 🎤 Conferences
 
-2. M. R. I. Evan, M. M. Rahman, **S. T. Mehedi**, A. Nazib, R. Islam, Z. Rahman,  *“A Modified Feature Selection Algorithm for Intrusion Detection System Based on Student Psychology-Based Optimization with Explainable AI,”*  IEEE CSDE, Fiji, 2023.
+1. **S. T. Mehedi**, R. Jurdak, C. Islam, G. Ramachandran  *QUT-DV25: A Dataset for Dynamic Analysis of Next-Gen Software Supply Chain Attacks*  NeurIPS Datasets and Benchmarks Track, 2025  
+   [![OpenReview](https://img.shields.io/badge/OpenReview-Paper-red)](https://openreview.net/forum?id=GR3P9UXqCE)
 
-3. J. Ferdows, **S. T. Mehedi**, A. S. M. Hossain et al.,  *“A Comprehensive Study of IoT Application Layer Security Management,”*  IEEE INOCON, 2020.
+2. M. R. I. Evan et al.  IEEE CSDE, Fiji, 2023  [![DOI](https://img.shields.io/badge/DOI-10.1109/CSDE57505.2023.10089231-green)](https://doi.org/10.1109/CSDE57505.2023.10089231)
 
----
-
-### Book Chapters
-1. A. A. Sefat, G. M. R. I. Rasiq, **S. T. Mehedi**,  *“CPU Performance Prediction Using Various Regression Algorithms,”*  Algorithms for Intelligent Systems, Springer, 2021.
+3. J. Ferdows et al.  IEEE INOCON, 2020  
+   [![DOI](https://img.shields.io/badge/DOI-10.1109/INOCON50539.2020.9298335-green)](https://doi.org/10.1109/INOCON50539.2020.9298335)
 
 ---
 
+### 📖 Book Chapter
+
+1. A. A. Sefat, G. M. R. I. Rasiq, **S. T. Mehedi**  *CPU Performance Prediction Using Various Regression Algorithms* Algorithms for Intelligent Systems, Springer, 2021  
+   [![DOI](https://img.shields.io/badge/DOI-10.1007/978--981--16--3690--5_14-green)](https://doi.org/10.1007/978-981-16-3690-5_14)
+
+---
 
 ## GitHub Statistics
 
