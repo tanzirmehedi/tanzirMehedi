@@ -82,7 +82,7 @@ His research interests include machine learning, cybersecurity, blockchain, and 
 ## Leadership & Service
 
 - **IEEE ComSoc Webmaster**, IEEE ICBC 2026 – Brisbane  
-- **Secretary**, QUT Bangladeshi Student Association (QUT BA IT), 2024–2025  
+- **IT Secretary**, QUT Bangladeshi Student Association (QUT BA), 2024–2025  
 - **Convener**, UAP Programming Contest Club (PCC), University of Asia Pacific, 2023  
 - **Chair**, IEEE MBSTU Student Branch, 2019  
 - **Vice-Chair**, IEEE MBSTU Student Branch, 2018
