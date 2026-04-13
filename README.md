@@ -8,6 +8,13 @@
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
+<p align="center">
+    <img src="https://komarev.com/ghpvc/?username=tanzirMehedi&label=Profile%20Views&color=000000&style=for-the-badge" alt="tanzirMehedi" />
+    <a href="https://github.com/tanzirMehedi?tab=followers">
+      <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/rudradcruze?color=000000&labelColor=333333&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/>
+    </a>
+  </p>
+
 ## Research Profiles
 
 [![Google Scholar](https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=tfKIiZoAAAAJ&hl=en)  [![ResearchGate](https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white)](https://www.researchgate.net/profile/Sk-Mehedi-2)  [![ORCID](https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0000-0003-4435-7856)  [![Elsevier](https://img.shields.io/badge/Elsevier-FF6C00?style=for-the-badge&logo=elsevier&logoColor=white)](https://portal.research.qut.edu.au/en/persons/tanzir-mehedi/)  [![Scopus](https://img.shields.io/badge/Scopus-E9711C?style=for-the-badge&logo=elsevier&logoColor=white)](https://www.scopus.com/authid/detail.uri?authorId=57212198805)  [![IEEE Xplore](https://img.shields.io/badge/IEEE_Xplore-00629B?style=for-the-badge&logo=ieee&logoColor=white)](https://ieeexplore.ieee.org/author/37088643307)  [![OpenReview](https://img.shields.io/badge/OpenReview-8C1B13?style=for-the-badge&logo=openreview&logoColor=white)](https://openreview.net/profile?id=~Sk_Tanzir_Mehedi1)  [![SciProfiles](https://img.shields.io/badge/SciProfiles-1E90FF?style=for-the-badge&logo=mdpi&logoColor=white)](https://sciprofiles.com/profile/tanzir-mehedi)  [![QUT Trusted Networks](https://img.shields.io/badge/QUT_Trusted_Networks-51247A?style=for-the-badge&logo=qut&logoColor=white)](https://research.qut.edu.au/trustednetworks/people/sk-tanzir-mehedi/)  [![UAP CSE Faculty](https://img.shields.io/badge/UAP_CSE_Faculty-003366?style=for-the-badge&logo=academia&logoColor=white)](https://cse.uap-bd.edu/people/faculty/sk-tanzir-mehedi/)
