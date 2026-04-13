@@ -115,4 +115,8 @@ His research interests include machine learning, cybersecurity, blockchain, and 
     </a>
   </p>
 
+  <a href="https://github.com/tanzirMehedi">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tanzirMehedi&theme=gotham" align="center" />
+  </a>
+
 _“Advancing secure, ethical, and intelligent technologies through rigorous research.”_
