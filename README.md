@@ -8,12 +8,6 @@
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
-<p align="center">
-    <img src="https://komarev.com/ghpvc/?username=tanzirMehedi&label=Profile%20Views&color=000000&style=for-the-badge" alt="tanzirMehedi" />
-    <a href="https://github.com/tanzirMehedi?tab=followers">
-      <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/rudradcruze?color=000000&labelColor=333333&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/>
-    </a>
-  </p>
 
 ## Research Profiles
 
@@ -113,5 +107,12 @@ His research interests include machine learning, cybersecurity, blockchain, and 
 🌐 Portfolio: [tanzirmehedi.github.io](https://tanzirmehedi.github.io)
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
+<p align="center">
+    <img src="https://komarev.com/ghpvc/?username=tanzirMehedi&label=Profile%20Views&color=000000&style=for-the-badge" alt="tanzirMehedi" />
+    <a href="https://github.com/tanzirMehedi?tab=followers">
+      <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/tanzirMehedi?color=000000&labelColor=333333&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/>
+    </a>
+  </p>
 
 _“Advancing secure, ethical, and intelligent technologies through rigorous research.”_
