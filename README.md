@@ -22,7 +22,7 @@ Tanzir has received the SAGE HDR Student Publication Prize – Awards 2025 from 
 
 His research interests include machine learning, cybersecurity, blockchain, and IoT. He is an active member of the IEEE.
 
----
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 ## Research Interests
 
@@ -31,7 +31,7 @@ His research interests include machine learning, cybersecurity, blockchain, and 
 - Blockchain
 - Internet of Things (IoT) 
 
----
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 ## Academic & Professional Experience
 
@@ -42,7 +42,7 @@ His research interests include machine learning, cybersecurity, blockchain, and 
 - **Research Fellow**, ICT Division, Government of Bangladesh  
 - **Data Analyst Engineer (Intern)**, Fujitsu Research Institute (FRI), Japan
 
----
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 ## Scholarships, Awards & Honors
 
@@ -71,14 +71,14 @@ His research interests include machine learning, cybersecurity, blockchain, and 
 - **Memorandum Letter of Congratulatory**, Boson Science Olympiad, Tangail, 2015  
 - **Letter of Congratulatory for SSC Scholarship Result**, Prothom Alo–Robi Award Ceremony, 2010
 
----
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 ## Professional Memberships
 
 - Member, **Institute of Electrical and Electronics Engineers (IEEE)**  
 - Reviewer for multiple international journals and conferences
 
----
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 ## Leadership & Service
 
@@ -88,7 +88,7 @@ His research interests include machine learning, cybersecurity, blockchain, and 
 - **Chair**, IEEE MBSTU Student Branch, 2019  
 - **Vice-Chair**, IEEE MBSTU Student Branch, 2018
 
----
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 
 ## GitHub Statistics
@@ -97,7 +97,7 @@ His research interests include machine learning, cybersecurity, blockchain, and 
 
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=tanzirmehedi&theme=tokyonight)](https://github.com/tanzirmehedi)
 
----
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 ## Contact
 
@@ -105,6 +105,6 @@ His research interests include machine learning, cybersecurity, blockchain, and 
 🔗 LinkedIn: [linkedin.com/in/tanzirmehedi](https://www.linkedin.com/in/tanzirmehedi)  
 🌐 Portfolio: [tanzirmehedi.github.io](https://tanzirmehedi.github.io)
 
----
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 _“Advancing secure, ethical, and intelligent technologies through rigorous research.”_
