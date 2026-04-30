@@ -3,7 +3,7 @@
 **Ph.D. Researcher | Queensland University of Technology (QUT), Australia**  
 **IEEE Member | Machine Learning | Cybersecurity | Blockchain | Internet of Things**
 
-![Citations](https://img.shields.io/badge/Citations-600+-blue) ![h-index](https://img.shields.io/badge/h--index-9-green) ![A★ Conferences](https://img.shields.io/badge/A%E2%98%85%20Conferences-1-orange)
+![Citations](https://img.shields.io/badge/Citations-650+-blue) ![h-index](https://img.shields.io/badge/h--index-9-green) ![A★ Conferences](https://img.shields.io/badge/A%E2%98%85%20Conferences-1-orange)
 ![Q1 Journals](https://img.shields.io/badge/Q1%20Journals-10-red) ![Expertise](https://img.shields.io/badge/Expert-ML%20%2F%20DL-purple)
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
